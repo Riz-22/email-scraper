@@ -1,0 +1,9 @@
+{
+  "concurrency": 10,
+  "max_depth": 2,
+  "request_timeout": 10.0,
+  "dns_validation": true,
+  "proxy": null,
+  "allowed_domains": [],
+  "output_path": "data/results.json"
+}
